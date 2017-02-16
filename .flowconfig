@@ -1,0 +1,9 @@
+[ignore]
+
+[include]
+
+[libs]
+node_modules/react/react.js
+node_modules/react/lib
+flow/
+[options]
